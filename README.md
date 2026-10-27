@@ -12,7 +12,7 @@ Double-click `Matchafinder.exe`. It scans, prints a verdict, and writes the full
 
 | verdict | meaning |
 | --- | --- |
-| `FUCKED` | Matcha is here — binary, payload, or execution record |
+| `FUCKED` | Matcha is here, binary, payload, or execution record |
 | `SUSPECT` | traces, a partial footprint, or a layer that couldn't fully see |
 | `CLEAN` | nothing |
 
